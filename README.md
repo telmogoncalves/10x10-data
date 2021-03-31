@@ -1,5 +1,7 @@
 # Data for 10x10 Twitter Profiles
 
+![](https://10x10.vercel.app/og.png)
+
 This repository holds the data for the website [https://10x10.io](https://10x10.io). Feel free
 to open a PR with your Twitter username.
 
